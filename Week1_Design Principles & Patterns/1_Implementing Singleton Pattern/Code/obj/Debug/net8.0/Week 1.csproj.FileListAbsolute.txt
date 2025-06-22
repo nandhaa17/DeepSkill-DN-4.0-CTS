@@ -1,0 +1,14 @@
+C:\CTS\Week1_Design Principles Patterns\1_Implementing Singleton Pattern\Code\bin\Debug\net8.0\Week 1.exe
+C:\CTS\Week1_Design Principles Patterns\1_Implementing Singleton Pattern\Code\bin\Debug\net8.0\Week 1.deps.json
+C:\CTS\Week1_Design Principles Patterns\1_Implementing Singleton Pattern\Code\bin\Debug\net8.0\Week 1.runtimeconfig.json
+C:\CTS\Week1_Design Principles Patterns\1_Implementing Singleton Pattern\Code\bin\Debug\net8.0\Week 1.dll
+C:\CTS\Week1_Design Principles Patterns\1_Implementing Singleton Pattern\Code\bin\Debug\net8.0\Week 1.pdb
+C:\CTS\Week1_Design Principles Patterns\1_Implementing Singleton Pattern\Code\obj\Debug\net8.0\Week 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\CTS\Week1_Design Principles Patterns\1_Implementing Singleton Pattern\Code\obj\Debug\net8.0\Week 1.AssemblyInfoInputs.cache
+C:\CTS\Week1_Design Principles Patterns\1_Implementing Singleton Pattern\Code\obj\Debug\net8.0\Week 1.AssemblyInfo.cs
+C:\CTS\Week1_Design Principles Patterns\1_Implementing Singleton Pattern\Code\obj\Debug\net8.0\Week 1.csproj.CoreCompileInputs.cache
+C:\CTS\Week1_Design Principles Patterns\1_Implementing Singleton Pattern\Code\obj\Debug\net8.0\Week 1.dll
+C:\CTS\Week1_Design Principles Patterns\1_Implementing Singleton Pattern\Code\obj\Debug\net8.0\refint\Week 1.dll
+C:\CTS\Week1_Design Principles Patterns\1_Implementing Singleton Pattern\Code\obj\Debug\net8.0\Week 1.pdb
+C:\CTS\Week1_Design Principles Patterns\1_Implementing Singleton Pattern\Code\obj\Debug\net8.0\Week 1.genruntimeconfig.cache
+C:\CTS\Week1_Design Principles Patterns\1_Implementing Singleton Pattern\Code\obj\Debug\net8.0\ref\Week 1.dll
