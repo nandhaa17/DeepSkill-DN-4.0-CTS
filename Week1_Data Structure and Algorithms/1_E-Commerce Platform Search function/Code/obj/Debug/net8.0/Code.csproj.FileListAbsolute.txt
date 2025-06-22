@@ -1,0 +1,14 @@
+C:\CTS\Week1_Data Structure and Algorithms\1_E-Commerce Platform Search function\Code\bin\Debug\net8.0\Code.exe
+C:\CTS\Week1_Data Structure and Algorithms\1_E-Commerce Platform Search function\Code\bin\Debug\net8.0\Code.deps.json
+C:\CTS\Week1_Data Structure and Algorithms\1_E-Commerce Platform Search function\Code\bin\Debug\net8.0\Code.runtimeconfig.json
+C:\CTS\Week1_Data Structure and Algorithms\1_E-Commerce Platform Search function\Code\bin\Debug\net8.0\Code.dll
+C:\CTS\Week1_Data Structure and Algorithms\1_E-Commerce Platform Search function\Code\bin\Debug\net8.0\Code.pdb
+C:\CTS\Week1_Data Structure and Algorithms\1_E-Commerce Platform Search function\Code\obj\Debug\net8.0\Code.GeneratedMSBuildEditorConfig.editorconfig
+C:\CTS\Week1_Data Structure and Algorithms\1_E-Commerce Platform Search function\Code\obj\Debug\net8.0\Code.AssemblyInfoInputs.cache
+C:\CTS\Week1_Data Structure and Algorithms\1_E-Commerce Platform Search function\Code\obj\Debug\net8.0\Code.AssemblyInfo.cs
+C:\CTS\Week1_Data Structure and Algorithms\1_E-Commerce Platform Search function\Code\obj\Debug\net8.0\Code.csproj.CoreCompileInputs.cache
+C:\CTS\Week1_Data Structure and Algorithms\1_E-Commerce Platform Search function\Code\obj\Debug\net8.0\Code.dll
+C:\CTS\Week1_Data Structure and Algorithms\1_E-Commerce Platform Search function\Code\obj\Debug\net8.0\refint\Code.dll
+C:\CTS\Week1_Data Structure and Algorithms\1_E-Commerce Platform Search function\Code\obj\Debug\net8.0\Code.pdb
+C:\CTS\Week1_Data Structure and Algorithms\1_E-Commerce Platform Search function\Code\obj\Debug\net8.0\Code.genruntimeconfig.cache
+C:\CTS\Week1_Data Structure and Algorithms\1_E-Commerce Platform Search function\Code\obj\Debug\net8.0\ref\Code.dll
