@@ -1,2 +1,5 @@
-Hello this is Nandha!!
-Edited after the commit now in master branch
+<?xml version="1.0" encoding="UTF-8"?>
+<message>
+    <greeting>Hello this is Nandha!!</greeting>
+    <note>Edited after the commit now in master branch</note>
+</message>
